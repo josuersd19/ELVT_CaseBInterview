@@ -35,7 +35,7 @@ Before your Onsite Interview:
 During your Onsite Interview: 
 
   - You will be alloted 30 minutes to present your project
-  - Hiring manager will hold 15 minutes for questiions
+  - Hiring manager will hold 15 minutes for questions
 
 
 
