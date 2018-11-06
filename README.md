@@ -42,10 +42,10 @@ During your Onsite Interview:
 
 ## Do's and Don'ts 
 
-This is a straight forward that should be quite familiar even to recent graduates. Here are a few things to keep in mind while you work on this project: 
+This is a straight forward exercise that should be quite familiar even to recent graduates. Here are a few things to keep in mind while you work on this project: 
 
   - Create a draft of how you will tackle the exercise then Follow your instinct
-  - At Elevate Data Science we are tool agnostic. Feel free to develop on R or Python or use other ML Libraries as you see fit. 
+  - At Elevate Data Science we are tool agnostic. Feel free to develop on R, Python or use any other ML Libraries as you see fit. 
   - Do not worry. There is no right AUC or set of predictors that guarantee your success. Be thoughtful but do not spend too much time on the minutae.   
   - Do not plagarize work, we do comprehensive searches of the web to compare code. 
   - Maintain reproducibility, set the appropiate seeds. 
@@ -54,8 +54,10 @@ This is a straight forward that should be quite familiar even to recent graduate
     
 
 
-## About the Data
+## Exercise Context 
+Your Hiring manger wants you to develop a tool to optimize their marketing efforts. The Marketing team has collected some data from previous marketing campaign. The data set includes customer information, described below, as a well as whether the customer responded to the marketing campaign or not. Here are the descriptions of each column in the data set:
 
+![](data.png)
 
 ## About Elevate
 
