@@ -57,7 +57,7 @@ This is a straight forward exercise that should be quite familiar even to recent
 ## Exercise Context 
 Your Hiring manger wants you to develop a tool to optimize their marketing efforts. The Marketing team has collected some data from previous marketing campaign. The data set includes customer information, described below, as a well as whether the customer responded to the marketing campaign or not. Here are the descriptions of each column in the data set:
 
-![](data.png)
+![](data.jpg)
 
 ## About Elevate
 
