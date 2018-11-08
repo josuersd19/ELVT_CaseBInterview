@@ -1,4 +1,4 @@
-# Case Two - Interview
+# Case B - Interview
 Elevate - Data Science Team  
 May 4, 2018  
 
